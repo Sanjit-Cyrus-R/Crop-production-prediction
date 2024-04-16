@@ -5,4 +5,5 @@ The need to increase agricultural output is more important than ever because of 
 ## Project process flow
 Data Preprocessing -> Exploratory Data Analysis -> Feature Engineering -> Machine Learning model
 
-The project , its findings results and insights are clearly explained in the presentation file 
+The project , its findings results and insights are clearly explained in the presentation file [Crop Production Presentation](https://github.com/Sanjit-Cyrus-R/Crop-production-prediction/blob/main/Crop%20Production%20Presentation.pptx)
+
